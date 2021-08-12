@@ -1,2 +1,3 @@
 # Hello-Kimmy
-Just practicing 
+
+Hi Kimmy this is for you.
